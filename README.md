@@ -71,15 +71,15 @@ I am always striving to optimize performance, enhance user experiences, and buil
 
 ## 📚 𝔼𝕕𝕦𝕔𝕒𝕥𝕚𝕠𝕟
 
-```text
-🎓 Illinois Institute of Technology (2022-2024)
-   | Master of Computer Science
-   | Cloud Computing Specialization
+🎓 **Illinois Institute of Technology (2022-2024)**  
+   | **Master of Computer Science**  
+   | Specialization: **Cloud Computing**
 
-📘 GRIET, India (2016-2020)
-   | B.Tech in Computer Science
-   | Focus: Data Structures & Algorithms
-```
+📘 **GRIET, India (2016-2020)**  
+   | **B.Tech in Computer Science**  
+   | Focus: **Data Structures & Algorithms**
+
+---
 
 ## 🌋 ℂ𝕠𝕕𝕚𝕟𝕘 𝕍𝕠𝕝𝕔𝕒𝕟𝕠
 
@@ -87,9 +87,11 @@ I am always striving to optimize performance, enhance user experiences, and buil
 
 [![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=tejanarra&bg_color=2b2d42&color=ff65ff&line=ffd700&point=ff65ff&area=true&hide_border=true)](https://github.com/tejanarra)
 
+---
+
 ## 🚀 Visitors
 
 <div align="center">
-  ![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=tejanarra.tejanarra)
-  ⚡ Pro Tip: Click the stats to see detailed metrics!
+  ![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=tejanarra.tejanarra)  
+  ⚡ **Pro Tip**: Click the stats to see detailed metrics!
 </div>
