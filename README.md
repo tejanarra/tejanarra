@@ -55,17 +55,6 @@
 
 ---
 
-## 🌋 ℂ𝕠𝕕𝕚𝕟𝕘 𝔸𝕔𝕥𝕚𝕧𝕚𝕥𝕪
-
-<div align="center">
-
-[![Teja's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tejanarra&theme=react-dark&area=true&hide_border=true&custom_title=Teja's%20Coding%20Contribution%20Map)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-![Contribution Snake](https://raw.githubusercontent.com/tejanarra/tejanarra/main/dist/snake.svg)
-
-</div>
-
----
 
 ## 💼 ℙ𝕣𝕠𝕗𝕖𝕤𝕤𝕚𝕠𝕟𝕒𝕝 𝕋𝕚𝕞𝕖𝕝𝕚𝕟𝕖
 
