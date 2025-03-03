@@ -61,7 +61,7 @@
 
 [![Teja's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tejanarra&theme=react-dark&area=true&hide_border=true&custom_title=Teja's%20Coding%20Contribution%20Map)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![Contribution Snake](https://raw.githubusercontent.com/tejanarra/tejanarra/output/github-contribution-grid-snake.svg)
+![Contribution Snake](https://raw.githubusercontent.com/tejanarra/tejanarra/main/dist/snake.svg)
 
 </div>
 
