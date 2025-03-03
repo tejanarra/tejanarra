@@ -1,15 +1,23 @@
-name: Generate Snake
+name: Generate Contribution Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *"  # Runs daily at midnight
+  workflow_dispatch:     # Allows manual triggering
 
 jobs:
-  generate:
+  generate-snake:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@master
+      - name: Generate Snake
+        uses: Platane/snk@v3
         with:
-          github_user_name: tejanarra
-          svg_output_path: dist/github-contribution-grid-snake.svg
+          github_user_name: tejanarra  # Replace with your username
+          svg_out_path: dist/github-contribution-grid-snake.svg
+          gif_out_path: dist/github-contribution-grid-snake.gif
+
+      - name: Push generated content
+        uses: github-actions-x/commit@v2.9
+        with:
+          files: dist/github-contribution-grid-snake.*
+          commit-message: "Update contribution snake"
