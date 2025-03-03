@@ -79,6 +79,7 @@ I am always striving to optimize performance, enhance user experiences, and buil
 📘 GRIET, India (2016-2020)
    | B.Tech in Computer Science
    | Focus: Data Structures & Algorithms
+```
 
 ## 🌋 ℂ𝕠𝕕𝕚𝕟𝕘 𝕍𝕠𝕝𝕔𝕒𝕟𝕠
 
