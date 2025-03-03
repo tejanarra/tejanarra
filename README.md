@@ -1,88 +1,94 @@
 <div align="center">
 
-# 𝙃𝙚𝙡𝙡𝙤 𝙩𝙝𝙚𝙧𝙚! 𝙄'𝙢 𝙎𝙧𝙞 𝙎𝙖𝙞 𝙏𝙚𝙟𝙖 �𝕣𝕟𝕒𝕣𝕣𝕒 👨💻
+# 𝕊𝕣𝕚 𝕊𝕖𝕛𝕒 𝕋𝕖𝕛𝕒 ℕ𝕒𝕣𝕣𝕒  
+**💻 Full Stack Developer | ☁️ Cloud Architect | 🚀 Performance Optimizer**
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF7135?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tejanarra)
-[![Email](https://img.shields.io/badge/📧_narrateja9699@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:narrateja9699@gmail.com)
+[![Portfolio](https://img.shields.io/badge/🚀_Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://tejanarra.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/🤝_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tejanarra)  
+[![GitHub](https://img.shields.io/badge/💻_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tejanarra)
 
 </div>
 
-## 🚀 **Technical Arsenal**
+---
 
-### **Frontend Wizardry**
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
-![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge)
+## 🚀 𝕊𝕖𝕝𝕗 𝕃𝕚𝕖𝕤 𝕒𝕟𝕕 𝕋𝕖𝕝𝕝𝕖𝕣
 
-### **Backend Sorcery**
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white&style=for-the-badge)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white&style=for-the-badge)
+Hello! I'm **Teja**, a passionate Full Stack Developer and Cloud Architect who thrives on building innovative, high-performance applications.  
+I am always striving to optimize performance, enhance user experiences, and build scalable systems. Here's a glimpse into my world! 💻🌍
 
-### **Cloud & DevOps**
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=FF9900&style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white&style=for-the-badge)
+---
+
+## 🛠️ 𝕋𝕖𝕔𝕙 ℂ𝕠𝕝𝕝𝕖𝕔𝕥𝕚𝕠𝕟
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,angular,nodejs,spring,aws,docker,postgres,mongodb,graphql,flutter,py,ts,redis,terraform" alt="tech stack" />
+</p>
+
+---
+
+## 📊 𝔾𝕚𝕥ℍ𝕦𝕓 𝕊𝕥𝕒𝕥𝕤
 
 <div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=tejanarra&theme=radical&border_radius=4.5)](https://git.io/streak-stats)
-  
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=tejanarra&theme=radical&border_radius=4.5)](https://git.io/streak-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tejanarra&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 
-## 💼 **Professional Odyssey**
+---
+
+## 💼 ℙ𝕣𝕠𝕗𝕖𝕤𝕤𝕚𝕠𝕟𝕒𝕝 𝕆𝕩𝕡𝕖𝕣𝕚𝕖𝕟𝕔𝕖
 
 <details>
 <summary><b>🚀 Elevance Health (Jun 2024 - Present)</b></summary>
 
-- **Performance Alchemist**: Transformed platform speed with React.Suspense & code splitting (⚡40% bundle reduction)
-- **MongoDB Maestro**: Engineered schema optimizations cutting query times by 80% (⏱️500ms → 100ms)
-- **React Architect**: Created reusable hooks that boosted dev velocity by 40% 🚄
+- ⚡ **Performance Optimization**: Reduced bundle sizes by 40% using React.Suspense for faster load times
+- 🚄 **Database Wizardry**: Achieved 5x query speed improvement in MongoDB for smoother operations
+- 🧩 **Component Architecture**: Reduced 35% codebase complexity by improving component modularity
+
 </details>
 
 <details>
 <summary><b>💡 Tata Consultancy Services (2020-2022)</b></summary>
 
-- **Scalability Champion**: Built systems handling 50k+ users with Spring Boot & React 🌐
-- **CI/CD Innovator**: Automated pipelines cutting deployment time by 35% ⚙️
-- **Testing Evangelist**: Slashed post-deployment bugs by 30% through rigorous testing 🐞
+- 🌐 **Scalable Systems**: Built apps with high scalability to handle 50k+ concurrent users
+- ⚙️ **CI/CD Automation**: Achieved 35% faster deployments with streamlined CI/CD pipelines
+- 🐞 **Quality Champion**: Reduced post-deploy bugs by 30% through better testing and integration
+
 </details>
 
-## 🛠️ **Showcase Projects**
+---
 
-<table>
-  <tr>
-    <td width="33%">
-      <h3>Effort Lytic</h3>
-      <img src="https://via.placeholder.com/400x200?text=Task+Manager" width="100%">
-      <p>🔐 JWT Auth | 🚀 Vercel | 💾 PostgreSQL</p>
-    </td>
-    <td width="33%">
-      <h3>E-Commerce Platform</h3>
-      <img src="https://via.placeholder.com/400x200?text=E-Commerce" width="100%">
-      <p>💳 Stripe API | 🔥 Firebase | 🛒 Angular</p>
-    </td>
-    <td width="33%">
-      <h3>Notify Collab</h3>
-      <img src="https://via.placeholder.com/400x200?text=Real+Time+Notes" width="100%">
-      <p>⚡ Firebase | 🤝 WebSockets | 🔒 Auth</p>
-    </td>
-  </tr>
-</table>
+## 🚀 𝕊𝕚𝕘𝕟𝕒𝕥𝕦𝕣𝕖 ℙ𝕣𝕠𝕛𝕖𝕔𝕥𝕤
 
-## 📚 **Education & Credentials**
+| Project | Tech Stack | Highlights |
+|---------|------------|------------|
+| **[Effort Lytic](https://github.com/tejanarra/task-manager)** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react) ![Node](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs) | Real-time CRUD operations with JWT Authentication |
+| **[E-Commerce Platform](https://github.com/tejanarra/ecommerce)** | ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular) ![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring) | Stripe integration for seamless payments |
+| **[Notify Collab](https://github.com/tejanarra/notify)** | ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase) ![WebSocket](https://img.shields.io/badge/-WebSocket-010101?logo=websocket) | Real-time collaborative editing |
+
+---
+
+## 📚 𝔼𝕕𝕦𝕔𝕒𝕥𝕚𝕠𝕟
 
 ```text
-🎓 Illinois Institute of Technology      📅 2022-2024
-   - Master of Computer Science
-   
-📘 GRIET, India                         📅 2016-2020
-   - B.Tech in Computer Science
-🎯 Latest Coding Activity
-Teja's GitHub Activity Graph
+🎓 Illinois Institute of Technology (2022-2024)
+   | Master of Computer Science
+   | Cloud Computing Specialization
+
+📘 GRIET, India (2016-2020)
+   | B.Tech in Computer Science
+   | Focus: Data Structures & Algorithms
+
+## 🌋 ℂ𝕠𝕕𝕚𝕟𝕘 𝕍𝕠𝕝𝕔𝕒𝕟𝕠
+
+### Teja's Coding Activity
+
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=tejanarra&bg_color=2b2d42&color=ff65ff&line=ffd700&point=ff65ff&area=true&hide_border=true)](https://github.com/tejanarra)
+
+## 🚀 Visitors
 
 <div align="center">
-Visitors
-
-</div> ```
+  ![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=tejanarra.tejanarra)
+  ⚡ Pro Tip: Click the stats to see detailed metrics!
+</div>
