@@ -85,13 +85,13 @@ I am always striving to optimize performance, enhance user experiences, and buil
 
 ### Teja's Coding Activity
 
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=tejanarra&bg_color=2b2d42&color=ff65ff&line=ffd700&point=ff65ff&area=true&hide_border=true)](https://github.com/tejanarra)
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=tejanarra&bg_color=2b2d42&color=ff65ff&line=ffd700&point=ff65ff&area=true&hide_border=true)(https://github.com/tejanarra)
 
 ---
 
 ## 🚀 Visitors
 
 <div align="center">
-  ![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=tejanarra.tejanarra)  
+  ![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=tejanarra)  
   ⚡ **Pro Tip**: Click the stats to see detailed metrics!
 </div>
