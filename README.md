@@ -48,8 +48,9 @@
 <div align="center">
 
 [![Effort Lytic](https://github-readme-stats.vercel.app/api/pin/?username=tejanarra&repo=task-manager&theme=radical)](https://github.com/tejanarra/task-manager)
-[![Notify Collab](https://github-readme-stats.vercel.app/api/pin/?username=tejanarra&repo=problemSolving_DSA&theme=radical)](https://github.com/tejanarra/problemSolving_DSA) 
-[![E-Commerce Platform](https://github-readme-stats.vercel.app/api/pin/?username=tejanarra&repo=Mobile_Application_Development&theme=radical)](https://github.com/tejanarra/Mobile_Application_Development)
+[![Notify Collab](https://github-readme-stats.vercel.app/api/pin/?username=tejanarra&repo=Notify&theme=radical)](https://github.com/tejanarra/Notify) 
+[![DSA](https://github-readme-stats.vercel.app/api/pin/?username=tejanarra&repo=problemSolving_DSA&theme=radical)](https://github.com/tejanarra/problemSolving_DSA) 
+[![MAD](https://github-readme-stats.vercel.app/api/pin/?username=tejanarra&repo=Mobile_Application_Development&theme=radical)](https://github.com/tejanarra/Mobile_Application_Development)
 
 </div>
 
